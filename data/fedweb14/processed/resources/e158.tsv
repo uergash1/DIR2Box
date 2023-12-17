@@ -1,0 +1,101 @@
+id	title	body
+FW14-e158-7211-10	weewx weather software	Python program for managing your weather station
+FW14-e158-7486-01	Anywhere Board Games	Anywhere Board Games (ABG) allows users to play board and card games on the web in real time on multiple machines (PC, Linux, iPhone, iPad, and Android). ABG runs as a Google+ Hangout App (go to http://anywhereboardgames.com to start it), or as a stand-alone PHP app. Unlike other gaming environments, we had a peculiar vision: projecting the main board on our table and using laptops or tablets to control our hands (with other friends joining in remotely). ABG runs on PHP 5 and Apache (which is provided with the Windows installer). It supports flipping, stacking, rotating, rolling, and shuffling of pieces, so most board and card games are playable.
+FW14-e158-7486-02	Domination (Risk Board Game)	Domination is a board game that is a bit like the well known game Risk
+FW14-e158-7486-10	Hotels Board Game	http://en.wikipedia.org/wiki/Hotels_%28board_game%29 Contains the description. I've implemented the PC version up to 4 players in the same computer, and online too! More info about versions: http://cosasdebeto.blogspot.com/search/label/Hotel or read commit logs of Subversion :)
+FW14-e158-7015-01	Eclipse Checkstyle Plug-in	The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.
+FW14-e158-7263-01	Open Hospital	OpenHospital - Hospital Information System
+FW14-e158-7263-08	Beth Israel plugins to fiji	These are plugins to Fiji (ImageJ) used in Nuclear Medicine at Beth Israel Hospital, Boston MA. Pet_Ct_Viewer is for PET/SPECT - CT/MRI studies showing fusion of the modalities. Read_BI_Studies is for BI database activities. New users use newUser.zip
+FW14-e158-7263-07	SPM Physiotools	A SPM (http://www.fil.ion.ucl.ac.uk/spm) toolbox which implements methods to remove physiological noise from BOLD (fMRI, fNIRS) measurements. Developed at the Medical Physics Department, University Hospital Freiburg (http://mr.uniklinik-freiburg.de).
+FW14-e158-7263-06	GNU Health	GNU Health - The Free Hospital and Health Information System
+FW14-e158-7263-05	Floreant POS	Opensource POS
+FW14-e158-7263-04	Hospital & Pharmacy management system	A hospital and pharmacy integrated management and billing system
+FW14-e158-7263-03	Ispirithalaya Hospital Management System	Ispirithalaya is simple health care system for hospital.
+FW14-e158-7263-02	CARE2X - Integrated Hospital Info System	Integrated Hospital Information System. PHP,mySQL,PostgreSQL. Surgery, Nursing,Outpatient,Wards,Labs, Pharmacy, Security,Admission,Schedulers, Repair, Communication & more. Multilanguage, WYSIWYG forms, userconfig, embedded workbots. Modular & scalab
+FW14-e158-7261-10	Zefania XML Bible Markup Language	No PRISM. No Surveillance. No Government Back Doors. You Have our Word on it.
+FW14-e158-7263-10	CapCode-software suite for sailors	CapCode is a navigation software for sailors for cruising or regatta. - Reads NMEA 183 data (instruments, GPS, AIS). Implements computation of the VMG , tracing on RNC and ENC (S-57) charts. Display the polar on the chart, future position of the ship. Weather information acquired from grib files are also displayed in the navigation view. developed as an Eclipse RCP in its versions 2.x.x
+FW14-e158-7261-09	Faust : signal processing language	Faust is a programming language for realtime audio signal processing
+FW14-e158-7261-08	CLIPS Rule Based Programming Language	Expert System Tool
+FW14-e158-7261-07	Systems Biology Markup Language (SBML)	A file format for exchanging computational models in systems biology
+FW14-e158-7261-06	Neuron	No description
+FW14-e158-7261-05	eXo Platform - Social Collaboration	The Open Source Enterprise Social Platform
+FW14-e158-7261-04	Wireless Universal Resource File	Handset Detection for Mobile Applications. Device Description Database
+FW14-e158-7261-03	iText®, a JAVA PDF library	iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF): \- Generate documents and reports based on data from an XML file or a database \- Create maps and books, exploiting numerous interactive features available in PDF \- Add bookmarks, page numbers, watermarks, and other features to existing PDF documents \- Split or concatenate pages from existing PDF files \- Fill out interactive forms \- Serve dynamically generated or manipulated PDF documents to a web browser iText is used by Java, .NET, Android and GAE developers to enhance their applications with PDF functionality. Several iText engineers are actively supporting the project on the iText mailing-list itext-questions@lists.sourceforge.net and on StackOverflow: http://stackoverflow.com/questions/tagged/itext
+FW14-e158-7261-02	Hibernate	Relational Persistence for Idiomatic Java
+FW14-e158-7261-01	Eclipse Checkstyle Plug-in	The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.
+FW14-e158-7263-09	HospitalERP_Wits	Wits 4th Year project - Hospital electronic ERP
+FW14-e158-7265-02	KraftwerkTD	Cooperational multiplayer towerdefense like game, in which you defend some valuable power plants.
+FW14-e158-7265-01	Plants vs. Zombies Trainer LSGVDZ	its a nice trainer for Plants vs. Zombies
+FW14-e158-7274-02	Unix Rio Utility	A utility designed for the use of interfacing with Rio's third through fifth generations of portable mp3 players; Rio 600/800/900/S-Series/Riot/psa[play/Fuse/Chiba/Cali/Nitrus.
+FW14-e158-7293-08	BrewScript	Homebrewing recipe/mashing calculator.
+FW14-e158-7293-07	Luke Dev	pork chop recipe
+FW14-e158-7293-06	The Modding Table	A software to craft easily your own Minecraft mod, without coding
+FW14-e158-7293-05	Open Chili	Good Chili Should be Open
+FW14-e158-7293-04	Gourmet	GNOME Recipe Manager w/ nutrition information and other useful plugins
+FW14-e158-7293-03	v3c-launchpad	boostraps v3c recipe builds in launchpad
+FW14-e158-7293-02	Brewtarget	Brewtarget is free brewing software for Linux, Mac, and Windows. Compatible with BeerSmith. Generates instructions for you from the recipe and interactive mash designer! Hit all your targets with brewtarget.
+FW14-e158-7293-01	Recipe Tools	Tools for the recipe collector :-) RecipeFox: A addon to FireFox to grab recipes from the net (like the MasterCook addon in Internet Explorer) A recipe converter: It converts recipes from one format to another, and supports the following formats: - AccuC
+FW14-e158-7274-01	SkyRiotFree	SkyRiot Free For Android
+FW14-e158-7252-01	SRM2 Sound Recognizer Mobile 2	A Sound Recognition Framework developed to J2ME plataform
+FW14-e158-7265-10	Bos Wars	An original futuristic real time strategy game
+FW14-e158-7265-09	EPRI Air Dispersion Tools	SCICHEM 3.0b2, EMVAP, SHARP and Distance Study
+FW14-e158-7265-08	LibreAquarium	An aquarium management software with a Simulation Model System
+FW14-e158-7265-07	Bioimage Analysis (the Robatzek Group)	High Content and High-throughput Image Processing in Plants
+FW14-e158-7265-06	FluoJ	Fluorescence microscopy image analysis tool
+FW14-e158-7265-05	Plant Water Relations	Physical modelling of water transport in plants
+FW14-e158-7265-04	mida solution	Integrated system for monitoring quality and WIP of industrial plants
+FW14-e158-7265-03	Kitchen garden aid	An easy to use application to design your kitchen garden. Helps you place your plants ( vegetables, fruit trees, herbs, flowers ) so that it respects the rules of crop rotation and companion planting. Based on square foot gardening. Requires Java 7.
+FW14-e158-7252-02	JaCHMM	Java Conditioned Hidden Markov Model library
+FW14-e158-7250-08	Disease Tagger	Automatically tag diseases in text
+FW14-e158-7250-10	exomeSuite	exomeSuite is an application designed to analyze variant call files from next generation sequencing data to identify variants causing disease. We supply both the Matlab and C source code as well as precompiled stand-alone applications with a graphical user interface.
+FW14-e158-7235-02	Enterprize Hiring Management	Hiring made easy
+FW14-e158-7239-06	ADRminer	An R package for the automated generation of drug safety signals
+FW14-e158-7239-05	crrcsim	Open source model airplane simulator
+FW14-e158-7239-04	Simple Text Protocol	"""C"" Framework for text-based communication protocols."
+FW14-e158-7239-03	SQLite	An embedded SQL database engine
+FW14-e158-7239-02	Wasabee	A Web browser with safety focus
+FW14-e158-7239-01	Provable Run Time Safety Assurance	Provable Run Time Safety Assurance for a Non-Linear System
+FW14-e158-7235-04	Const-Calc	Construction Calculator
+FW14-e158-7235-03	Felineherd	2000+ Lisp Plugins For Emacs under one Roof
+FW14-e158-7235-01	Silicone Coated Fibreglass Sleeve	High Temperature Protection Sleeve
+FW14-e158-7239-08	NiCE	Modeling and Simulation made NiCE!
+FW14-e158-7230-05	DerbyMan	Pinewood Derby Management Software
+FW14-e158-7230-04	Council members in a graph	Infographic which shows the members of Boards of Public Policies.
+FW14-e158-7230-03	Ed Council Calendar Credentials	A program to modify and display faculty credentials for a Calander
+FW14-e158-7230-02	Karaoke Research Council	Create HTML/javascript live-band Karaoke experiences
+FW14-e158-7230-01	VoiceCode Programming by Voice Toolbox	VoiceCode is an Open Source initiative started by the National Research Council of Canada, to develop a programming by voice toolbox. The aim of the project is to make programming through voice input as easy and productive as with mouse and keyboard. For install, Use subversion, as described in this page: http://sourceforge.net/apps/mediawiki/voicecode/index.php?title=VCode_1_Doc/InstallationManual.
+FW14-e158-7222-10	PCSecrets	Encrypt and manage secret text data
+FW14-e158-7222-09	opencart POS (point of sale) STD Demo	e-commerce ready POS solutions
+FW14-e158-7222-08	openBVE Route Editor	A simple openBVE Route Editor
+FW14-e158-7239-07	CMS Pro Web Shop	Online shopping cms, Website template, website builder free download
+FW14-e158-7239-09	icloud	icloud client sdk
+FW14-e158-7250-09	Disease Ontology	Disease Ontology is a stuctured controlled vocabulary originally based upon and mapped to medical billing codes. The goal of this ontology is to create a comprehensive hierachical controlled vocabulary to represent subsumptive disease relationships.
+FW14-e158-7242-10	jsexp	This is a parser in Java for Lisp S-expressions. An S-expression or sexp (for symbolic expression) is a convention for representing data using parentheses.
+FW14-e158-7293-10	iEat	A clean and simple recipe database web application.
+FW14-e158-7250-07	Rapid Inquiry Facility	A tool used to support environmental health studies.
+FW14-e158-7250-06	Vascular Modeling Toolkit	PROJECT MOVED: see http://www.vmtk.org for up-to-date information. Libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis in image-based blood vessel modeling.
+FW14-e158-7250-05	pSVA	personalized SVA
+FW14-e158-7250-04	episerve	R-based server for infectious disease epidemiology
+FW14-e158-7250-03	outbreaker	outbreaker
+FW14-e158-7250-02	idobru	Brucellosis Ontology (IDOBRU) is an extension ontology of the Infectious Disease Ontology (IDO) with a focus on brucellosis, a zoonotic infectious disease caused by Brucella spp.
+FW14-e158-7250-01	MeningoAfrica	Implementation of a meningococcal disease model
+FW14-e158-7242-09	jContractor	jContractor is a tool to provide Design by Contract support to the Java programming language. Contracts are specified by writing methods that follow jContractor's naming convention.
+FW14-e158-7239-10	SilentTrust	A cooperative game of trust and communication
+FW14-e158-7242-08	AnonProxi	Web based proxy splinter project forked from Phproxy
+FW14-e158-7242-07	fmgVen	Convention over Configuration Java ORM
+FW14-e158-7242-06	EventTools	PHP and MySQL package for model-railroad convention management.
+FW14-e158-7242-05	juipp	Juicy Presentation Pattern - ASP.NET Web Forms
+FW14-e158-7242-04	MapStruct	Java bean mappings, the easy way!
+FW14-e158-7242-03	Taylor	Taylor MDA is a specialized UML modeling tool based on Eclipse. It uses convention-based techniques to generate the maximum code from streamlined UML models. Templates are included for generating JEE applications based on JPA/EJB3 and JSF/Seam/Facelets.
+FW14-e158-7242-02	nidi	Browser for every one
+FW14-e158-7242-01	J2EE Training	Java & J2EE Demonstrations
+FW14-e158-7293-09	ReciBase	Recibase: Where all of your recipes are in one place!
+FW14-e158-7299-02	eXo Platform - Social Collaboration	The Open Source Enterprise Social Platform
+FW14-e158-7299-01	Wireless Universal Resource File	Handset Detection for Mobile Applications. Device Description Database
+FW14-e158-7431-06	TbcTrial Delphi Component	TbcTrial provides trial version of your software
+FW14-e158-7448-04	Linux-on-android	Working to getting a range of Linux distros running on android
+FW14-e158-7448-03	ShoesLove	shoes
+FW14-e158-7448-02	Running Pacer	No description
+FW14-e158-7448-01	Keep Outlook Running	Add-in for microsoft Outlook which always minimizes the application instead of closing it. You'll likely need to first install Microsoft Visual C++ 2010 Redistributable Package. Then install KeepOutlookRunning.dll as an Add-in under Tools-->Trust Center in outlook. If you're using the 64-bit version of office/outlook, download the 64-bit dll instead.
+FW14-e158-7431-10	Dolibarr ERP - CRM	Dolibarr ERP - CRM, open web software to manage your business
+FW14-e158-7431-09	bctrialversion.net	bcTrialVersion.NET component provides trial version capability

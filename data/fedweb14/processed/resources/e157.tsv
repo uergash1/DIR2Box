@@ -1,0 +1,275 @@
+id	title	body
+FW14-e157-7015-04	Vintharas/TheRavenDB	"RavenDB examples from ""Edgar Allan Poe Presents The RavenDB""
+
+Last updated April 07, 2014"
+FW14-e157-7015-05	GITenberg/The-Raven_1065	"The Raven by Poe, Edgar Allan, 1809-1849 is a Project Gutenberg book, now on Github.
+
+Last updated October 05, 2012"
+FW14-e157-7015-07	gerisk8/theravenpoe	"“The Raven” by Edgar Allan Poe
+
+Last updated March 16, 2014"
+FW14-e157-7216-04	mario-goulart/salmonella-feeds	"A tool to generate atom feeds out of salmonella log files
+
+Last updated February 14, 2014"
+FW14-e157-7261-01	joaquingatica/Notie-Imberisseo	"Convert dates to and from Imladris Reckoning (a.k.a. Elvish Calendar) and get current date with sunset sync. Multi-language app; currently available in: English, Spanish & Quenya.
+
+Last updated November 25, 2012"
+FW14-e157-7044-01	pkyeck/a-song-of-ice-and-fire	"Summaries for the books by George R.R. Martin done by Vincent Briscuso (✝)
+
+Last updated February 12, 2014"
+FW14-e157-7015-01	baldmountain/TheRaven	Last updated April 21, 2013
+FW14-e157-7207-06	harshankola/Earthquake	"Earthquake List fragment
+
+Last updated February 26, 2013"
+FW14-e157-7207-07	deepakvenkat/earthquake	Last updated April 21, 2012
+FW14-e157-7207-08	daroca90/earthquake	"intensities application for earthquakes
+
+Last updated April 30, 2013"
+FW14-e157-7207-09	JosephChenEcho/Earthquake	Last updated May 07, 2013
+FW14-e157-7207-10	wyh267/earthquake	"earthquake application
+
+Last updated July 17, 2013"
+FW14-e157-7216-01	lincolnloop/django-salmonella	"A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.
+
+Last updated August 29, 2013"
+FW14-e157-7216-02	mario-goulart/salmonella	"A tool for testing CHICKEN eggs
+
+Last updated March 19, 2014"
+FW14-e157-7216-03	danielhyduke/Salmonella	"Repository for updating Salmonella SBML models.
+
+Last updated January 13, 2014"
+FW14-e157-7216-07	mario-goulart/salmonella-run-publish	"A tool to automate salmonella runs using code from the chicken-core repo
+
+Last updated March 25, 2014"
+FW14-e157-7216-05	eleyine/learn-salmonella	"Predict genes involved in resistance to infection by Salmonella using machine learning.
+
+Last updated December 17, 2012"
+FW14-e157-7216-06	mario-goulart/salmonella-diff	"A diff tool for salmonella logs (HTML output)
+
+Last updated October 05, 2013"
+FW14-e157-7207-04	pnavarrc/earthquake	"Earthquakes in Chile
+
+Last updated May 29, 2013"
+FW14-e157-7216-08	mario-goulart/awful-salmonella-tar	Last updated March 24, 2014
+FW14-e157-7216-09	mario-goulart/salmonella-html-report	"Converts salmonella log files to HTML
+
+Last updated March 20, 2014"
+FW14-e157-7216-10	mario-goulart/setup-salmonella-environment	"Scripts to set up an environment to run Salmonella on all CHICKEN eggs
+
+Last updated April 14, 2014"
+FW14-e157-7230-01	jhannah/rvtr.org	"River Valley Trail Riders - Council Bluffs IA OHV Park
+
+Last updated April 02, 2014"
+FW14-e157-7293-01	matthewfrazier/basil	"Track CSA shares, lifecycle, recipes, and responsibilities
+
+Last updated August 25, 2012"
+FW14-e157-7207-05	ECPEEarthQuake/earthquake	"Earthquke project
+
+Last updated October 17, 2012"
+FW14-e157-7207-01	jugyo/earthquake	"Twitter terminal client with streaming API support.
+
+Last updated April 05, 2014"
+FW14-e157-7207-03	usgs/earthquake-eventpages	"Web application for displaying earthquake event pages.
+
+Last updated April 11, 2014"
+FW14-e157-7137-04	andymboyle/Catalogue	"A list of all the books and movies I own
+
+Last updated December 06, 2011"
+FW14-e157-7015-03	danijeljames/quothTheRaven	Last updated October 14, 2013
+FW14-e157-7015-06	3fn/RavensInTheFog	Last updated September 24, 2011
+FW14-e157-7015-08	ShaunaGordon/raven-munin-theme	"Update of Jeremy Clarke's Munin theme for 1.4.x.
+
+Last updated January 14, 2013"
+FW14-e157-7015-09	Smash15195/Traduction-Francaise-The-Raven\---Chapter-1---The-Eye-of-the-Sphinx	"Traduction Francaise The Raven \- Chapter 1 : The Eye of the Sphinx
+
+Last updated September 06, 2013"
+FW14-e157-7015-10	Smash15195/Traduction-Francaise-The-Raven\---Chapitre-3---L-extinction-des-Corbeaux	"Traduction Francaise The Raven \- Chapitre 3 : L’extinction des Corbeaux
+
+Last updated October 09, 2013"
+FW14-e157-7137-01	kibiluzbad/MoviesCatalog	"My movies catalog
+
+Last updated May 28, 2012"
+FW14-e157-7137-02	Arlam/Catalog	"Catalog of movies
+
+Last updated January 02, 2013"
+FW14-e157-7137-03	Alex-Werner/SkyMoviesCatalog	Last updated January 12, 2014
+FW14-e157-7137-05	gurman/sf2-course-movies-catalog	"Simple movies catalog
+
+Last updated January 27, 2014"
+FW14-e157-7207-02	kenu/Earthquake	Last updated April 10, 2013
+FW14-e157-7137-06	Tonaplo/MovieCatalogue	"A program to keep track of ones movies.
+
+Last updated March 19, 2014"
+FW14-e157-7137-07	massix/Catalogue	"Gtk# program that exports a TreeView representing a Movies' collection into a well-formatted HTML page with links to IMDb and Google for every movie.
+
+Last updated April 18, 2011"
+FW14-e157-7137-08	mmanasliski/catalog-service	"This service provides information about UMFlix's movies.
+
+Last updated June 26, 2013"
+FW14-e157-7137-09	Keniath/Popcorn-Movie-Catalog	"Keep track of your movies easily!
+
+Last updated March 10, 2012"
+FW14-e157-7137-10	Catel/Catel.Examples.Enjoy	"Application which shows the power of Catel for both server and client (WPF, Windows Phone and WinRT) to manage entertainment collections such as games or movies.
+
+Last updated December 24, 2013"
+FW14-e157-7167-01	darkpaw/reprap-tk0-mdf	"A clone of the Lulzbot TK-0 to suit use of MDF boards for the frame instead of aluminium extrusions
+
+Last updated November 05, 2013"
+FW14-e157-7174-01	Actor-John-Kolakowski/Seal-Team-6-Films	"Entertainment Genious
+
+Last updated December 21, 2013"
+FW14-e157-7015-02	maxconway/theRaven	"PartIII group project
+
+Last updated April 19, 2013"
+FW14-e157-7491-01	denman2328/Help	"WMSpeech Decoder DMO,0x00600800,1,1,WMSPDMOD.DLL,6.02.9200.16384 MP3 Decoder DMO,0x00600800,1,1,mp3dmod.dll,6.02.9200.16384 Mpeg4s Decoder DMO,0x00800001,1,1,mp4sdecd.dll,6.02.9200.16384 WMV Screen decoder DMO,0x00600800,1,1,wmvsdecd.dll,6.02.9200.16384 WMVideo
+
+Last updated August 10, 2013"
+FW14-e157-5000-01	codeguy/php-the-right-way	"An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+
+Last updated April 16, 2014"
+FW14-e157-5000-02	braziljs/js-the-right-way	"An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+
+Last updated April 13, 2014"
+FW14-e157-5000-03	julycoding/The-Art-Of-Programming-By-July	"Csdn 600万博客「结构之法算法之道」部分经典博文集锦：《程序员编程艺术 — 面试和算法心得》
+
+Last updated April 21, 2014"
+FW14-e157-5000-04	ggreer/the_silver_searcher	"A code-searching tool similar to ack, but faster.
+
+Last updated April 15, 2014"
+FW14-e157-5000-05	ptwobrussell/Mining-the-Social-Web	"The official online compendium for Mining the Social Web (O'Reilly, 2011)
+
+Last updated October 18, 2013"
+FW14-e157-5000-06	TheAmazingAudioEngine/TheAmazingAudioEngine	"Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
+
+Last updated April 20, 2014"
+FW14-e157-5000-07	chriskempson/tomorrow-theme	"Tomorrow Theme the precursor to Base16 Theme
+
+Last updated April 06, 2014"
+FW14-e157-5000-08	simtr/The-Powder-Toy	"Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
+
+Last updated April 17, 2014"
+FW14-e157-5000-09	karlseguin/the-little-mongodb-book	"The Little MongoDB Book
+
+Last updated April 06, 2014"
+FW14-e157-5000-10	weightshift/The-Personal-Page	"This simple one-page website is a way for people to have a very quick and easy personable website that aggregates your activity and positions a simple logo, a portrait and some description text in a nicely-formatted manner. This is licensed under the MIT and GPL licenses.
+
+Last updated September 08, 2012"
+FW14-e157-5001-01	nicolasgramlich/AndEngine	"Free Android 2D OpenGL Game Engine
+
+Last updated March 16, 2014"
+FW14-e157-5001-02	CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers	"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+
+Last updated March 15, 2014"
+FW14-e157-5001-03	github/android	"GitHub Android App
+
+Last updated February 20, 2014"
+FW14-e157-5001-04	gpambrozio/BlockAlertsAnd-ActionSheets	"Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot
+
+Last updated August 30, 2013"
+FW14-e157-5001-05	LearnProgramming/standards-and-practices	"A collection of documents outlining what it is that we intend to do.
+
+Last updated April 18, 2014"
+FW14-e157-5001-06	excilys/androidannotations	"Fast Android Development. Easy maintainance.
+
+Last updated April 12, 2014"
+FW14-e157-5001-07	nicolasgramlich/AndEngineExamples	"AndEngine - Examples
+
+Last updated June 08, 2013"
+FW14-e157-5001-08	WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress	"Lets you easily create metaboxes with custom fields that will blow your mind.
+
+Last updated April 18, 2014"
+FW14-e157-5001-09	adityaravishankar/command-and-conquer	"Command & Conquer in HTML5/Javascript
+
+Last updated June 20, 2013"
+FW14-e157-5001-10	androidquery/androidquery	"AndroidQuery
+
+Last updated March 26, 2014"
+FW14-e157-5002-01	justinfrench/formtastic	"A Rails form builder plugin with semantically rich and accessible markup.
+
+Last updated April 19, 2014"
+FW14-e157-5002-02	malsup/form	"jQuery Form Plugin
+
+Last updated February 21, 2014"
+FW14-e157-5002-03	nodejitsu/forever	"A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+
+Last updated April 17, 2014"
+FW14-e157-5002-04	ddollar/foreman	"Manage Procfile-based applications
+
+Last updated September 04, 2013"
+FW14-e157-5002-05	CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers	"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+
+Last updated March 15, 2014"
+FW14-e157-5002-06	the-teacher/cocktails_for_programmers	"Сocktails for programmers. Коктейли для программистов.
+
+Last updated February 18, 2014"
+FW14-e157-5002-07	johnmyleswhite/ML_for_Hackers	"Code accompanying the book ""Machine Learning for Hackers""
+
+Last updated December 13, 2013"
+FW14-e157-5002-08	apneadiving/Google-Maps-for-Rails	"Enables easy Google map + overlays creation in Ruby apps
+
+Last updated April 17, 2014"
+FW14-e157-5002-09	radar/forem	"The best Rails 3 and Rails 4 forum engine. Ever.
+
+Last updated April 13, 2014"
+FW14-e157-5002-10	honcheng/PaperFold-for-iOS	"Paper folding animation for iOS
+
+Last updated July 31, 2013"
+FW14-e157-5003-01	appcelerator/alloy	"Alloy is an MVC framework for Titanium which is developed by Appcelerator.
+
+Last updated April 21, 2014"
+FW14-e157-5003-02	AlloyTeam/AlloyImage	"基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
+
+Last updated March 11, 2014"
+FW14-e157-5003-03	pennersr/django-allauth	"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. Visit http://jug.gl for a live demo ...
+
+Last updated April 16, 2014"
+FW14-e157-5003-04	liferay/alloy-ui	"AlloyUI is a framework built on top of YUI3 (JavaScript) that uses Bootstrap (HTML/CSS) to provide a simple API for building high scalable applications
+
+Last updated April 19, 2014"
+FW14-e157-5003-05	starfishmod/jquery-oembed-all	"A fork with improvements of the jquery-oembed project
+
+Last updated May 27, 2013"
+FW14-e157-5003-06	freelan-developers/freelan-all	"The FreeLAN libraries build environment
+
+Last updated April 20, 2014"
+FW14-e157-5003-07	subtlepatterns/SubtlePatterns	"All the patterns
+
+Last updated August 06, 2013"
+FW14-e157-5003-08	omgmog/install-all-firefox	"bash script to install major Firefox versions on Mac OS X
+
+Last updated March 19, 2014"
+FW14-e157-5003-09	alienhard/SublimeAllAutocomplete	"Extend Sublime Text 2 autocompletion to find matches in all open files of the current window
+
+Last updated November 27, 2013"
+FW14-e157-5003-10	raganwald/javascript-allonge	"Markdown source for the book ""JavaScript Allongé""
+
+Last updated April 11, 2014"
+FW14-e157-5004-01	12meses12katas/Febrero-Roman-Numerals	"Kata del mes de Febrero del 2011: Roman Numerals
+
+Last updated April 08, 2012"
+FW14-e157-5004-02	codefellows/RubyNightClassFeb2014	Last updated February 19, 2014
+FW14-e157-5004-03	mathildathompson/wdi_sydney_feb	Last updated April 13, 2014
+FW14-e157-5004-04	fanshuai7531123/feb	Last updated October 23, 2013
+FW14-e157-5004-05	stlclojure/feb	"February meeting doodles
+
+Last updated February 18, 2014"
+FW14-e157-5004-06	hiwaylon/feb	"F.E.B. (Factory-Entity-Behavior) - Behavior based entities in Python.
+
+Last updated October 08, 2012"
+FW14-e157-5004-07	olinjs/olinjs-3-hw	"The homework for the 3rd lecture, due Friday Feb 1\.
+
+Last updated January 31, 2013"
+FW14-e157-5004-08	ccjjharmon/nycp_feb_2011	Last updated February 28, 2011
+FW14-e157-5004-09	ccjjharmon/nycs_feb_2011	Last updated March 04, 2011
+FW14-e157-5004-10	nanmeiying/fbifeb	"feb
+
+Last updated April 07, 2014"
+FW14-e157-5005-01	astaxie/build-web-application-with-golang	"A golang ebook intro how to build a web with golang
+
+Last updated April 15, 2014"
+FW14-e157-5005-02	survivingwithandroid/Surviving-with-android	"Source code related to the posts in the blog
+
+Last updated April 17, 2014"
+FW14-e157-5005-03	perusio/drupal-with-nginx	"Running Drupal using nginx: an idiosyncratically crafted bleeding edge configuration.
+
+Last updated March 26, 2014"

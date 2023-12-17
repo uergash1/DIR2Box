@@ -1,0 +1,101 @@
+id	title	body
+FW14-e133-7044-01	How to build a word co-occurence network?	 
+FW14-e133-7299-01	Clustering on very large sparse matrix?	 
+FW14-e133-7293-09	The best machine learning consultants?	 
+FW14-e133-7293-08	State of art learning to rank from click logs	 
+FW14-e133-7293-07	Good Textbooks on Optimization	 
+FW14-e133-7293-06	Line Search in Logistic Regression Optimization	 
+FW14-e133-7293-05	derivation parametric form of MaxEnt	 
+FW14-e133-7293-04	Paper overview on Linear SVM's.. Please comment...	 
+FW14-e133-7293-03	The time complexity of solving a general linear system?	 
+FW14-e133-7293-02	Recognizing Optimal Substructure for Dynamic Programming?	 
+FW14-e133-7293-01	Practical tips for managing data files	 
+FW14-e133-7265-02	Incrementally Trainable Entity Recognition Classifier	 
+FW14-e133-7265-01	Use of ANCOVA ?	 
+FW14-e133-7263-10	Skin Care Tips	 
+FW14-e133-7263-09	Formulating a problem of step detection using mobile sensors	 
+FW14-e133-7263-08	Merging kmeans clusters	 
+FW14-e133-7263-07	Application of machine learning to fMRI/EEG data?	 
+FW14-e133-7293-10	The choice of MCMC and Variational Inference	 
+FW14-e133-7299-02	Map/Reduce Matrix Multiplication - A'B	 
+FW14-e133-7263-05	What is the state of the art in language modeling?	 
+FW14-e133-7299-03	[closed] What is the difference between first and second right eigenvectors of a row stochastic matrix and their meaning in graph theory?	 
+FW14-e133-7303-08	RBM weights and input normalization	 
+FW14-e133-7303-07	Deep neural network with unbalanced classes	 
+FW14-e133-7303-06	Automated Legal Question and Answering System	 
+FW14-e133-7303-05	Idiot-proof Machine Learning Methods	 
+FW14-e133-7303-04	History-based models for structured prediction?	 
+FW14-e133-7303-03	Hessian-free NN algo summary	 
+FW14-e133-7303-02	Multi-class Classification with precedence constraints	 
+FW14-e133-7303-01	The effect of coupling in original LDA that causes intractability.	 
+FW14-e133-7299-10	which ML algorithms could be used for predicting most likely patterns?	 
+FW14-e133-7299-09	LSH implementation	 
+FW14-e133-7299-08	Preprocessing images, centering each pixel	 
+FW14-e133-7299-07	Tricks for handling big data: What to do when you have more data than CPU to crunch it	 
+FW14-e133-7299-06	Recommender Systems using Python: Two Questions about Stochastic Gradient Descent	 
+FW14-e133-7299-05	Techniques to store and manipulate collocation matrices	 
+FW14-e133-7299-04	incremental least squares with one row change	 
+FW14-e133-7263-06	Multi-task learning for time-series data	 
+FW14-e133-7263-04	Human Intelligence vs Machine Learning	 
+FW14-e133-7303-10	Evaluating spectral clustering	 
+FW14-e133-7250-01	How to deal with a very low positive rate?	 
+FW14-e133-7249-09	What does False Positive Identification Rate imply?	 
+FW14-e133-7249-08	estimating speech recognition accuracy from a sample	 
+FW14-e133-7249-07	selecting training data for naive bayes classifier	 
+FW14-e133-7249-06	Distinguishing two datasets	 
+FW14-e133-7249-05	Toy Regression Question	 
+FW14-e133-7249-04	What are the largest publicly available labeled classification datasets?	 
+FW14-e133-7249-03	Designing a database to hold features from a corpus	 
+FW14-e133-7249-02	Modern approach to record-linkage problem?	 
+FW14-e133-7249-01	will separating outputs into individual networks help identifying patterns?	 
+FW14-e133-7242-10	examples of wrapping open source learning software in PMML?	 
+FW14-e133-7242-09	Is it worth avoiding intermediate matrices in calculations?	 
+FW14-e133-7242-08	Why do people use negative log scores, instead of just log scores?	 
+FW14-e133-7242-07	Prediction and statistical Inference: theoretical results	 
+FW14-e133-7242-06	Neural network with 0 hidden layer	 
+FW14-e133-7242-05	Python machine learning packages	 
+FW14-e133-7249-10	Transfer Learning by Learning Rich Generative Models	 
+FW14-e133-7250-02	Application of machine learning to fMRI/EEG data?	 
+FW14-e133-7263-03	What are the most interesting companies in NLP space?	 
+FW14-e133-7250-03	Are measurement made in the same pacient different?	 
+FW14-e133-7263-02	Good programming abstraction to represent a Dataset	 
+FW14-e133-7263-01	Unsupervised methods for word polarity detection?	 
+FW14-e133-7261-10	Profiling users based on their content	 
+FW14-e133-7261-09	Programming language to learn first?	 
+FW14-e133-7261-08	Higher-level NLP languages & NLP libraries	 
+FW14-e133-7261-07	Parallel Processing for neural probabilistic language modeling	 
+FW14-e133-7261-06	Bakeoff to compare language models?	 
+FW14-e133-7261-05	Why is Python often a language of choice used in the field of Artificial Intelligence / Machine Learning?	 
+FW14-e133-7261-04	What is the state of the art in language modeling?	 
+FW14-e133-7261-03	How to automatically generate a parser & code-to-code translator from a corpus?	 
+FW14-e133-7261-02	Which programming language has the best repository of machine learning libraries?	 
+FW14-e133-7261-01	Natural Language Processing. Where to start?	 
+FW14-e133-7252-03	Expectation-maximization for semisupervised logistic regression	 
+FW14-e133-7252-02	Training Hidden Markov Models for multiple input observations	 
+FW14-e133-7252-01	Baum-Welch algorithm for hidden Markov model does not give the correct initial state probability?	 
+FW14-e133-7303-09	Value of deep -vs- shallow NNs	 
+FW14-e133-7307-01	How to understand the output of Topic Model class in Mallet?	 
+FW14-e133-7242-03	Is R “that bad” that it should be rewritten from scratch?	 
+FW14-e133-7486-02	Tricks for handling big data: What to do when you have more data than CPU to crunch it	 
+FW14-e133-7448-10	Hessian-free NN algo summary	 
+FW14-e133-7448-09	Feature selection on sentiment analysis	 
+FW14-e133-7448-08	Converting a Redundant Representation into a Faster Approximate Representation	 
+FW14-e133-7448-07	How do I classify my emulator input optimization problem, and with which algorithm should I approach it?	 
+FW14-e133-7448-06	What is an accurate technique for implementing moving variance?	 
+FW14-e133-7448-05	Running Theano on a Mac running Mavericks	 
+FW14-e133-7448-04	stopping CRF++ running and resume its running	 
+FW14-e133-7448-03	Strange behavior in theano re: deep learning tutorials	 
+FW14-e133-7448-02	How to install MatJags on a Ubuntu?	 
+FW14-e133-7448-01	[Topic Modeling] How to recreate Google Ad Group Ideas (beta) functionality?	 
+FW14-e133-7441-10	Best two majors for academic machine learning research	 
+FW14-e133-7441-09	real life examples of reinforcement learning	 
+FW14-e133-7441-08	Human Intelligence vs Machine Learning	 
+FW14-e133-7441-07	Neural networks, real numbered inputs, and getting NaN for cost?	 
+FW14-e133-7441-06	Restricted Boltzmann Machine for real-valued data - gaussian linear units (glu) -	 
+FW14-e133-7486-01	Train a classifier to predict game winner from card game logs	 
+FW14-e133-7486-03	Extracting Structure on a Very Complexly Interacting Feature Space	 
+FW14-e133-7441-04	Real Value RBM Update Function and Probability Calculation	 
+FW14-e133-7486-04	[closed] Assistance with AI design problem	 
+FW14-e133-7491-09	Recognizing Optimal Substructure for Dynamic Programming?	 
+FW14-e133-7491-08	Good programming abstraction to represent a Dataset	 
+FW14-e133-7491-07	How to become a good machine learning *programmer*?	 
