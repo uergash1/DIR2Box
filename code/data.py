@@ -27,8 +27,11 @@ class Dataset:
             self.id_to_rname = json.load(f)
 
         # Loading queries
+        with open(f'../data/{self.dataset_name}/processed/id_to_qname.json') as f:
+            id_to_qname = json.load(f)
+        self.qnames = list(id_to_qname.values())
         self.query_ids = sorted(list(self.resource_query_similarity['query_id'].unique()))
-        self.queries = np.load(f"../data/{self.dataset_name}/embeddings/{self.args.llm}/queries.npy")
+        self.queries = torch.Tensor([np.load(f"../data/{self.dataset_name}/embeddings/query/fine-tuned-MultipleNegativesRankingLoss/{self.args.num_query}/{str(qname)}.npy") for qname in self.qnames])
 
         random.seed(2023)
         self.query_ids_cv = list(self.query_ids)

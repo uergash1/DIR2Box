@@ -42,6 +42,7 @@ def parse_args():
     parser.add_argument("--version", default=0, type=int, help='data version')
     
     parser.add_argument("--num_doc", default=10, type=int)
+    parser.add_argument("--num_query", default=10, type=int)
     parser.add_argument("--llm", default="bert", type=str)
     
     return parser.parse_args()
